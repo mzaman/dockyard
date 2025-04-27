@@ -1,0 +1,6 @@
+*.DS_Store
+*.bak
+.idea
+/Docker
+*node_modules
+*composer.lock
