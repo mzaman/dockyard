@@ -1,4 +1,4 @@
-# Dockyard : Laravel Dockerized Environment
+# Dockyard : Dockerized Environment for Web Applications
 
 This project provides a streamlined Docker-based development environment for Laravel using Docker. It includes setup scripts and handy Docker shortcut commands to simplify local development.
 
